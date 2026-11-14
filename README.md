@@ -1,4 +1,4 @@
-# 09 · Microsserviços com Mensageria (RabbitMQ) 
+ Microsserviços com Mensageria (RabbitMQ) 
 
 > **Estado do zip:** aqui você recebe a **infraestrutura** (`docker-compose.yml`) e **trechos-chave** em `snippets/`
 > (contrato do evento, configuração do RabbitMQ, publicador e consumidor). Os dois serviços Spring Boot você cria do zero
